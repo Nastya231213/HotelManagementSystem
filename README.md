@@ -1,0 +1,1 @@
+# HotelManagementSystem git init git add README.md git commit -m set up the project structure git branch -M main git remote add origin https://github.com/Nastya231213/HotelManagementSystem.git git push -u origin main
